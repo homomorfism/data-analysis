@@ -17,9 +17,17 @@ visualization.
 3. Run in terminal: `jupyter-notebook`.
 4. Go to website, printed in console, go to folder jupyter-notebook and run .ipynb
 
+## Collection of jupyter notebooks
+
+- `achieving-97-val-acc-on-mnist.ipynb` - getting 97% validation accuracy using dense model.
+- `training-mnistautoencoder.ipynb` - training an auto encoder on mnist with dim of latent space = 2 and visualizing it.
+  ![](figures/mnist-encoder-visualization.gif) *Visualization of work of morphs of features embeddings*
+- `data-inputing-predicting.ipynb` - described in task 1 section.
+- `loans-approval.ipynb` - described in task 2 section.
+
 ## Task 1
 
-Given as an input a datetime column, you need to make 3 models to predict each feature (1, 2, 3). 
+Given as an input a datetime column, you need to make 3 models to predict each feature (1, 2, 3).
 
 *This is example of training data (data is already encoded with OrdinalEncoder from sklearn)*
 

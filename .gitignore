@@ -5,7 +5,8 @@ __pycache__/
 .idea
 # C extensions
 *.so
-
+jupyter-notebooks/lightning_logs/
+data/raw/MNIST
 # Distribution / packaging
 .Python
 build/

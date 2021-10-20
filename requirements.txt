@@ -6,3 +6,7 @@ pandas
 seaborn
 jupyter
 tabulate
+pytorch-lightning
+torch
+torchvision
+ffmpeg
