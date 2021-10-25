@@ -10,3 +10,6 @@ pytorch-lightning
 torch
 torchvision
 ffmpeg
+ray[tune]
+opencv-python
+jupyter-notebooks/eye_tracking.ipynb

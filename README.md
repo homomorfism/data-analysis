@@ -21,7 +21,11 @@ visualization.
 
 - `achieving-97-val-acc-on-mnist.ipynb` - getting 97% validation accuracy using dense model.
 - `training-mnistautoencoder.ipynb` - training an auto encoder on mnist with dim of latent space = 2 and visualizing it.
-  ![](figures/mnist-encoder-visualization.gif) *Visualization of work of morphs of features embeddings*
+
+| Visualization of encoding mnist to dim 2 | Visualization of work of morphs of features embeddings | 
+|---:|---:|
+|![](figures/mnist/mnist-training-autoencoder-visualization.png) | ![](figures/mnist/morfing-numbers.gif)
+
 - `data-inputing-predicting.ipynb` - described in task 1 section.
 - `loans-approval.ipynb` - described in task 2 section.
 
