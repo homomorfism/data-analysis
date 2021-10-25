@@ -13,3 +13,6 @@ ffmpeg
 ray[tune]
 opencv-python
 jupyter-notebooks/eye_tracking.ipynb
+scikit-image
+easydict
+Pillow

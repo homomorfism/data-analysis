@@ -4,7 +4,8 @@ __pycache__/
 *$py.class
 .idea
 
-data/preprocessed/eye_tracking/
+data/preprocessed/
+*.tar
 data/raw/eye_tracking/
 # C extensions
 *.so
