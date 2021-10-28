@@ -20,6 +20,12 @@ visualization.
 ## Collection of jupyter notebooks
 
 - `achieving-97-val-acc-on-mnist.ipynb` - getting 97% validation accuracy using dense model.
+- `image-colorising.ipynb` - training auto encoder for image colorization
+
+*Visualization of best sample from validation images (gray is input to the model, middle is reconstructed, right is true
+image*
+![image](figures/image-colorization/output-validation.png)
+
 - `training-mnistautoencoder.ipynb` - training an auto encoder on mnist with dim of latent space = 2 and visualizing it.
 
 | Visualization of encoding mnist to dim 2 | Visualization of work of morphs of features embeddings | 
