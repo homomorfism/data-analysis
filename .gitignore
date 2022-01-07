@@ -6,7 +6,7 @@ __pycache__/
 
 data/preprocessed/
 *.tar
-data/raw/eye_tracking/
+../iris-detection/data/raw/eye_tracking/
 # C extensions
 *.so
 jupyter-notebooks/lightning_logs/
